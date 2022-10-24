@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:Lato, sans-serif;
+    background: url(images/plan-page.jpg);
+    font-size: 16px;
+}
+section{
+    text-align: center;
+}
+
+article h1{
+    font-size: 1.5em;
+    color: #FFF;
+    padding:30px
+}
+article .price {
+    font-size: 3em;
+    font-weight: bold;
+    color:#27dcc4;
+    padding:40px;
+}
+ul{
+    list-style: none;
+    padding: 0 12px;
+}
+button{
+    background:#27dcc4;
+    color:#FFF;
+    padding:15px 30px;
+    margin: 10px 0;
+    font-size: 0.9em;
+    cursor: pointer; /*doi con tro thanh tay chi*/
+    border: none;
+    border-radius: 8px; /*vong bao ngoai cua cai boder*/
+}
+button:hover{
+    background: #ACACAC;
+}
+li{
+    padding:5px 0;
+}
+nav{
+    color: dimgray;
+}

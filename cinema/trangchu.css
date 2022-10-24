@@ -1,0 +1,58 @@
+
+#logo{
+    height: 120%; width: 120%;
+}
+
+#qc{
+    height: 100%; width: 100%;
+}
+
+nav, ul, p{
+    text-align: center;
+    margin: auto;
+}
+
+#posphim{
+    height: 500px;
+    width: 350px;
+}
+
+li{
+    display: inline-block;
+    width: 100px;  height: 100px;  padding: 50px;
+    margin: auto;
+}
+
+button{
+    width: 200px;  height: 30px;
+}
+
+#dangchieu, #sapchieu, #duoi{
+    text-decoration: underline;
+}
+
+ul{
+    height: 300px;
+    position: relative;
+    box-shadow: 0 1px 3px #ddd;
+    background: #fff;
+    border-radius: 0;
+    
+}
+
+div{
+    display: inline-block;
+    text-align: center;
+}
+
+article{
+    text-align: center;
+}
+footer{
+    background-color: gainsboro;
+    text-align: center;
+}
+h2{
+    text-decoration: none;
+    font-size:medium;
+}
